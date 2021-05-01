@@ -1,5 +1,6 @@
 public class addition
 {
+	//addition
 	private double no1,no2,ans;
 	public addition()
 	{
